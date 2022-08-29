@@ -43761,7 +43761,7 @@ A.aO(l.h(m,"episode_id"))
 A.aO(l.h(m,"story_id"))
 p=A.aO(l.h(m,"page"))
 A.a7(k)
-o=A.cs("http://ucgroup.teckzy.co.in/ucadmin/restapi/UserApi/getHome",0,null)
+o=A.cs("https://teckzy.co.in/ucgroups_episodes/ucadmin/restapi/UserApi/getHome",0,null)
 m=t.N
 l=A.aa(["X-API-KEY","d1c11b10599e380607c42297b8184eb2"],m,m)
 s=3
